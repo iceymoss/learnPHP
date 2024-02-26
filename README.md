@@ -1,2 +1,2 @@
 # learnPHP
-记录信学习PHP
+记录学习PHP
