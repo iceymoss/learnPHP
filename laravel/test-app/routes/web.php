@@ -67,3 +67,5 @@ Route::get("course", [CourseController::class, 'GetCourseList']);
 
 //show
 Route::get("user/name", [UserController::class, 'show']);
+Route::get("member/info", 'MemberController@Info');
+
